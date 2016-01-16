@@ -12,8 +12,8 @@
     #define H 1.2                      //Height of the domain
     #define L 1.2                      //Length of the domain
     #define Radius 0.05                //Radius of the circle
-    #define Ny 601                     //Number of points in Heigt
-    #define Nx 601                     //Number of points in Length
+    #define Ny 201                     //Number of points in Heigt
+    #define Nx 201                     //Number of points in Length
     #define CFL 1                      //Time step 
     #define acf 10                     //Artificial Compressibility Factor
 
